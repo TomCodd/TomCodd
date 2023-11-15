@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on the [MAPS project](https://www.micronutrient.support/) (based at the University of Nottingham) as a Data Scientist, and some personal projects
-- 👯 I’m looking to collaborate on open science nutrition projects, paleoclimatology research, and meteorological/photographic planners!
+- 👯 I’m looking to collaborate on open science nutrition projects, paleoclimatology research, meteorological/photographic planners, and Obsidian setups.
 - 💬 Ask me about writing scripts and functions for analysing Nutritional Data in R
 - 📫 How to reach me: tbc5@protonmail.com
 - 😄 Pronouns: he/him
