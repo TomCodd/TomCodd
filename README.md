@@ -2,7 +2,7 @@
 
 - 🔭 Currently involved in the family farm, and enjoying coding projects on the side
 - I was previously working on the [MAPS project](https://www.micronutrient.support/) (based at the University of Nottingham) as a Data Scientist
-- 👯 I’m looking to collaborate on open science health and nutrition projects, paleoclimatology research, meteorological/photographic planners, and Obsidian setups.
+- 👯 I’m looking to collaborate on projects on digital ecology, environmental science, open science health and nutrition, paleoclimatology research, meteorological/photographic planners, and Obsidian setups.
 - 💬 Ask me about writing scripts and functions for analysing Nutritional Data in R
 - 📫 How to reach me: tbc5@protonmail.com
 - 😄 Pronouns: he/him
